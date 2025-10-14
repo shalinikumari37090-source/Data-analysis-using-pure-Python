@@ -3,7 +3,6 @@
 <img src="https://cdn-icons-png.flaticon.com/512/6114/6114221.png" alt="Data Analysis Icon" width="100"/>
 <img src="https://static.vecteezy.com/system/resources/previews/026/513/688/original/data-analytics-logo-design-growth-arrow-logo-design-for-data-finance-investment-vector.jpg" alt="Analytics Logo" width="120"/>
 <img src="https://previews.123rf.com/images/macrovector/macrovector1909/macrovector190900019/130969237-flat-design-of-data-analysis-magnifier-with-pie-chart-and-arrow-modern-style-logo-vector.jpg" alt="Magnifier Chart Icon" width="120"/>
-<img src="https://www.favpng.com/png_view/data-analytics-logo-data-analysis-big-data-analytics-png/2VpUbrZ2" alt="Big Data Logo" width="120"/>
 
 > ✨ *Discover who you might know and what you might like—powered by clean data and clever logic.*
 

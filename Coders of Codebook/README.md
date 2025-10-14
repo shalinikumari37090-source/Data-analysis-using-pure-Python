@@ -6,9 +6,6 @@
 
 > ✨ *Discover who you might know and what you might like—powered by clean data and clever logic.*
 
-![Data Analysis Icon](https://cdn-icons-png.flaticon.com/512/6114/6114221.png)
-![Recommendation System Icon](https://static.vecteezy.com/system/resources/previews/009/676/350/original/social-media-icons-set-and-popular-social-applications-modern-logos-flat-vector.jpg)
-
 ---
 
 ## 🚀 Project Overview
